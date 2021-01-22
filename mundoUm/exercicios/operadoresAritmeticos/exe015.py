@@ -1,4 +1,4 @@
-# EXERCICIO 015
+# EXERCICIO 015 - ALUGUEL DE CARROS
 
 # Escreva um programa que pergunte a quantidade de Km percorridos
 # por um carro alugado e a quantidade de dias pelos quais ele foi alugado.

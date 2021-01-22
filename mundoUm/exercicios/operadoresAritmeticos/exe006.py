@@ -1,4 +1,4 @@
-# EXERCICIO 006
+# EXERCICIO 006 - DOBRO, TRIPLO E RAIZ QUADRADA
 
 # Crie um algoritmo que leia um número e mostre seu dobro, triplo e raiz quadrada:
 

@@ -1,4 +1,4 @@
-# EXERCICIO 016
+# EXERCICIO 016 - QUEBRANDO UM NÚMERO
 
 # Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 

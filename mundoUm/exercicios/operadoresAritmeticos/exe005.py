@@ -1,4 +1,4 @@
-# EXERCICIO 005
+# EXERCICIO 005 - ANTECESSOR E SUCESSOR
 
 # Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor:
 

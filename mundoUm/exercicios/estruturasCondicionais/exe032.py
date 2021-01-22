@@ -1,4 +1,4 @@
-# EXERCICIO 032
+# EXERCICIO 032 - ANO BISSEXTO
 
 # Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 

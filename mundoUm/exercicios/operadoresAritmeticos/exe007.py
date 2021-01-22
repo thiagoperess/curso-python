@@ -1,4 +1,4 @@
-# EXERCICIO 007
+# EXERCICIO 007 - MÉDIA ARITMÉTICA
 
 # Desenvolva um programa que leia as duas notas de um aluno e mostre sua média:
 

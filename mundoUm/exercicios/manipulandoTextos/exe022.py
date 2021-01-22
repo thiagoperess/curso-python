@@ -1,4 +1,4 @@
-#EXERCICIO 022
+# EXERCICIO 022 - ANALISADOR DE TEXTOS
 
 # Crie um programa que leia o nome completo de uma pessoa e mostre:
 # O nome com todas as letras maiúsculas e minúsculas.

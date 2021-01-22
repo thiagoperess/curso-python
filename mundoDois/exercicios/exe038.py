@@ -1,4 +1,11 @@
-#  EXERCICIO 038
+#  EXERCICIO 038 - COMPARANDO NÚMEROS
+
+# Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+# O primeiro valor é o maior;
+# O segundo valor é o maior;
+# Não existe valor maior, os dois números são iguais.
+
+# SOLUÇÃO:
 
 num1 = int(input('Primeiro número: '))
 num2 = int(input('Segundo número: '))

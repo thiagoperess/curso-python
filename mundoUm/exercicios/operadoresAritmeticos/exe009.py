@@ -1,4 +1,4 @@
-# EXERCICIO 009
+# EXERCICIO 009 - TABUADA
 
 # Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 

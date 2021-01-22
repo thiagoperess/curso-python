@@ -1,4 +1,4 @@
-# EXERCICIO 021
+# EXERCICIO 021 - TOCANDO UM MP3
 
 # Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 

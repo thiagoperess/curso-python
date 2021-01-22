@@ -1,4 +1,4 @@
-#EXERCICIO 024
+# EXERCICIO 024 - VERIFICANDO AS PRIMEIRAS LETRAS DE UM TEXTO
 
 # Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
 

@@ -1,4 +1,4 @@
-# EXERCICIO 003
+# EXERCICIO 003 - SOMANDO DOIS NÚMEROS
 
 # Crie um programa que leia dois números e mostre a soma entre eles:
 

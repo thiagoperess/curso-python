@@ -1,4 +1,4 @@
-# EXERCICIO 031
+# EXERCICIO 031 - CUSTO DA VIAGEM
 
 # Desenvolva um programa que pergunte a distância de uma viagem em Km.
 # Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km

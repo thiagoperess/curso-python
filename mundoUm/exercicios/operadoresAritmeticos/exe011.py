@@ -1,4 +1,4 @@
-# EXERCICIO 011
+# EXERCICIO 011 - PINTANDO PAREDE
 
 # Faça um programa que leia a largura e a altura de uma parede em metros,
 # calcule a sua área e a quantidade de tinta necessária para pintá-la,

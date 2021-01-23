@@ -12,14 +12,19 @@ print('''Suas opções
 import random
 humanChoice = int(input('Qual é sua jogada? '))
 pcOptions = [0, 1, 2]
+pedra = pcOptions[0]
+papel = pcOptions[1]
+tesoura = pcOptions[2]
 pcChoice = int(random.choice(pcOptions))
-print('Escolhi {}.'.format(pcChoice))
 
 if humanChoice == 0 and pcChoice == 2 or \
     humanChoice == 1 and pcChoice == 0 or \
     humanChoice == 2 and pcChoice == 1:
-    print("Você ganhou!! PARABÉNS!!")
+    print('Eu escolhi {} e você {}! \n'
+          'Você ganhou!! PARABÉNS!!'.format(humanChoice, pcChoice))
 elif humanChoice == pcChoice:
-    print('EMPATE! Joguem novamente!')
+    print('Eu escolhi {} e você {}! \n'
+          'EMPATE! Jogue novamente!'.format(humanChoice, pcChoice))
 else:
-    print('Você perdeu!! Tente novamente!')
+    print('Eu escolhi {} e você {}! \n'
+          'Você perdeu!! Tente novamente!'.format(humanChoice, pcChoice))

@@ -14,8 +14,8 @@ while num != 999:
     soma += num
     count += 1
     num = int(input('Digite um número [999 para parar]: '))
-print('FIM')
 print('Você digitou {} números e a soma deles foi {}.'.format(count, soma))
+print('FIM')
 
 # 2
 soma = count = num = 0
@@ -23,4 +23,4 @@ while num != 999:
     soma += num
     count += 1
     num = int(input('Digite um número [999 para parar]: '))
-print('Você digitou {} números e a soma deles foi {}. \nFIM'.format(count-1, soma))
+print(f'Você digitou {count-1} números e a soma deles foi {soma}. \nFIM')

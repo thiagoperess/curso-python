@@ -7,10 +7,10 @@
 
 # SOLUÇÕES
 
-# from math import factorial
-# num = int(input('Digite um número para calcular seu fatorial: '))
-# fat = factorial(num)
-# print('O fatorial de {} é {}'.format(num, fat))
+from math import factorial
+num = int(input('Digite um número para calcular seu fatorial: '))
+fat = factorial(num)
+print('O fatorial de {} é {}'.format(num, fat))
 
 num = int(input('Digite um número: '))
 count = num

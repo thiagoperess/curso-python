@@ -12,7 +12,7 @@ soma = 0
 opt = 'sS'
 while opt in 'sS':
     num = int(input('Digite um número: '))
-    opt = str(input('Deseja continuar digitando valores? [s/n]'))
+    opt = str(input('Deseja continuar digitando valores? [s/n]'))[0]
     soma += num
     count += 1
     if count == 1:

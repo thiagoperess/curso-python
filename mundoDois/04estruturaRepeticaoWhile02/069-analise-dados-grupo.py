@@ -55,8 +55,6 @@ while True:
     while resp not in 'SN':
         resp = str(input('Quer continuar? [S/N] ')).strip().upper()
     everybody += 1
-    if resp not in 'SN':
-        print('Digite uma opção válida!')
     if sex in 'F' and age < 20:
         women20 += 1
     if sex in 'M':

@@ -4,9 +4,9 @@
 # em uma lista única que mantenha separados os valores pares e ímpares.
 # No final, mostre os valores pares e ímpares em ordem crescente.
 
-# SOLUÇÃO
+# SOLUÇÕES
 
-# com lista única
+# 1ª com lista única
 
 number = [[], []]
 value = 0
@@ -21,20 +21,19 @@ print(sorted(number[0]))
 print(f'Os valores ímpares foram: ', end='')
 print(sorted(number[1]))
 
-# com mais de uma lista
+# 2ª com mais de uma lista
 
-# oddList = []
-# evenList = []
-# numberList = []
-# for i in range(0, 7):
-#     numbers = int(input('Digite um número: '))
-#     numberList.append(numbers)
-#     if numbers % 2 == 0:
-#         evenList.append(numbers)
-#     else:
-#         oddList.append(numbers)
-# print(f'Os números pares foram: ', end='')
-# print(sorted(evenList))
-# print(f'Os números ímpares foram: ', end='')
-# print(sorted(oddList))
-
+oddList = []
+evenList = []
+numberList = []
+for i in range(0, 7):
+    numbers = int(input('Digite um número: '))
+    numberList.append(numbers)
+    if numbers % 2 == 0:
+        evenList.append(numbers)
+    else:
+        oddList.append(numbers)
+print(f'Os números pares foram: ', end='')
+print(sorted(evenList))
+print(f'Os números ímpares foram: ', end='')
+print(sorted(oddList))

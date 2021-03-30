@@ -1,4 +1,4 @@
-# EXERCÍCIO 092
+# EXERCÍCIO 092 - CADASTRO DE TRABALHADOR EM PYTHON
 
 # Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário.
 # Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário.

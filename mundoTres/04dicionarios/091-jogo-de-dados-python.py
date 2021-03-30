@@ -1,4 +1,4 @@
-# EXERCÍCIO 091
+# EXERCÍCIO 091 - JOGO DE DADOS EM PYTHON
 
 # Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios.
 # Guarde esses resultados em um dicionário em Python. No final, coloque esse

@@ -44,7 +44,6 @@ def resumo(preco=0, taxaAum=10, taxaRed=5):
     print(f'Preço analisado: \t{coin(preco)}')
     print(f'Dobro do valor: \t{dobro(preco, True)}')
     print(f'Metade do valor: \t{metade(preco, True)}')
-    percentAum = aumentar(preco, taxaAum)
-    aumentoReal = percentAum + preco
-    print(f'{taxaAum}% de aumento: \t{coin(aumentoReal)}')
-    print(f'{taxaRed}% de redução: \t{diminuir(preco, taxaRed, True)}')
+    print(f'Aumento de {taxaAum}%: \t{aumentar(taxaAum, preco, True)}')
+    print(f'Redução de {taxaRed}%: \t{diminuir(taxaRed, preco, True)}')
+    print('-' * 30)
